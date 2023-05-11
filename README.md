@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif)
 <h1 align="center">Hi 👋,I am Subroto Banerjee</h1>
 <h3 align="center">A Developer, Programmer and Aspiring Technical Writer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/1881030.jpg">
