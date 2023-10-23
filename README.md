@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am also a rapper, and put my music out on youtube**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
