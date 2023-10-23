@@ -1,12 +1,12 @@
 <!-- ![logo](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif) -->
-<h1 align="center">Hi 👋,I am Subroto Banerjee</h1>
-<h3 align="center">A Developer, Programmer and Aspiring Technical Writer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/1881030.jpg">
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">A Developer, Writer and Community Builder from India</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/TeeWrath/TeeWrath/assets/117584718/d1258b49-d12a-4a2b-b234-095e5b228066">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teewrath&label=Profile%20views&color=0e75b6&style=flat" alt="teewrath" /> </p>
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/TeeWrath)
 
-- 📝 I regularly write articles on [https://medium.com/@subroto.2003](https://medium.com/@subroto.2003)
+- 📝 I regularly write articles on [Medium](https://medium.com/@subroto.2003) and [Hashnode](https://subwrites.hashnode.dev/)
 
 - 💬 Ask me about **Development, Programming, Music and Books**
 
