@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teewrath&label=Profile%20views&color=0e75b6&style=flat" alt="teewrath" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/TeeWrath/TeeWrath/assets/117584718/d1258b49-d12a-4a2b-b234-095e5b228066">
 
-- 🔭 I’m currently working on [NoteX](https://github.com/The-NoteX/NoteX)
+- 🔭 I’m currently working on [Ayojaka](https://github.com/TeeWrath/Ayojaka)
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Flutter and Backend**
 
 - 👨‍💻 All of my projects are available at [link](https://bio.link/teewrath)
 
