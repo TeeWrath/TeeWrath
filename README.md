@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [link](https://bio.link/teewrath)
 
-- 📝 I regularly write articles on [subwrites.hashnode.dev/](https://subwrites.hashnode.dev/)
+- 📝 Find my articles on [blogs](https://github.com/TeeWrath/blogs-and-articles)
 
 - 💬 Ask me about **Web/App Development, Writing and Communities**
 
