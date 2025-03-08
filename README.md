@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Subroto Banerjee</h1>
-<h3 align="center">A Developer, Writer, Speaker, Community Builder from India</h3>
+<h1 align="center">Namaste 🙏, I'm Subroto Banerjee</h1>
+<h3 align="center">A Developer, Writer, Community Builder and Rapper from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teewrath&label=Profile%20views&color=0e75b6&style=flat" alt="teewrath" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=teewrath&label=Profile%20views&color=0e75b6&style=flat" alt="teewrath" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Backend and App Development**
 
-- 👨‍💻 All of my projects are available at [bio.link](https://bio.link/teewrath)
+- 👨‍💻 All of my projects are available [here](https://github.com/TeeWrath?tab=repositories)
 
 - 📝 I regularly write articles on [links](https://github.com/TeeWrath/blogs-and-articles)
 
-- 📫 How to reach me **subroto.2003@gmail.com**
+- 📫 How to reach me **subroto.2003@gmail.com** or [**website**](https://teewrath.github.io)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XZNj8Meus44fLilGQJwnmNcwHuEAKMiv/view?usp=sharing)
 
 - ⚡ Fun fact **I make rap music**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/teewrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="teewrath" height="30" width="40" /></a>
