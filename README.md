@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [CookethFlow](https://cookethflow.framer.website/)
 
-- 🌱 I’m currently learning **Backend Development, Natural Language Processing, System Design**
-
 - 👨‍💻 All of my projects are available at [http://www.subrotobanerjee.xyz/](http://www.subrotobanerjee.xyz/)
 
-- 📝 I regularly write articles on [blog link](https://github.com/TeeWrath/blogs-and-articles)
+- 📝 I write articles on [blog link](https://github.com/TeeWrath/blogs-and-articles)
 
 - 📫 How to reach me **subroto.2003@gmail.com**
 
